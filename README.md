@@ -1,12 +1,12 @@
-# Forge ⚒️  
+# Dev Forge ⚒️  
 ### Ambiente de desenvolvimento local moderno para PHP  
 *Alternativa open-source ao Laragon, Herd, wamp e muitos outros — multiplataforma e modular*
 
 ---
 
-## 🚀 O que é o Forge?
+## 🚀 O que é o Dev Forge?
 
-**Forge** é um ambiente de desenvolvimento local **gratuito, open-source e multiplataforma** (Windows e Linux), focado em **produtividade, simplicidade e experiência do desenvolvedor PHP**.
+**Dev Forge** é um ambiente de desenvolvimento local **gratuito, open-source e multiplataforma** (Windows e Linux), focado em **produtividade, simplicidade e experiência do desenvolvedor PHP**.
 
 Ele nasce para preencher o vácuo deixado por ferramentas locais que se tornaram pagas, obsoletas ou limitadas — sem sacrificar desempenho, controle ou elegância.
 
