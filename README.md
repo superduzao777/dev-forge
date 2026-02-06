@@ -95,3 +95,78 @@ Um único código-base. Mesma experiência.
 
 ## 📦 Estrutura do projeto
 
+forge/
+├─ core/
+│ ├─ app/
+│ ├─ ui/
+│ ├─ module-loader/
+│ └─ services/
+├─ modules/
+│ ├─ php/
+│ ├─ webserver/
+│ ├─ database/
+│ ├─ projects/
+│ └─ git/
+├─ runtime/
+│ ├─ php/
+│ ├─ nginx/
+│ ├─ databases/
+│ └─ logs/
+└─ docs/
+
+
+Tudo explícito. Nada mágico.
+
+---
+
+## 📌 Status do projeto
+
+🟡 **Em desenvolvimento ativo**
+
+- [x] Arquitetura base
+- [x] Sistema de módulos
+- [ ] PHP Manager (MVP)
+- [ ] Web Server Manager
+- [ ] Gerenciador de projetos
+- [ ] Primeiro release público
+
+Roadmap completo em `/docs/roadmap.md`.
+
+---
+
+## 🤝 Contribuição
+
+Contribuições são **bem-vindas e incentivadas**.
+
+- Issues bem descritas
+- Pull Requests claros
+- Discussões abertas
+
+Este projeto existe para a comunidade.
+
+---
+
+## 🧠 Por que este projeto existe?
+
+Porque ferramentas locais **não deveriam ser um luxo**.  
+Porque produtividade importa.  
+Porque o ecossistema PHP merece ferramentas modernas.  
+
+E porque desenvolvedores merecem controle total do próprio ambiente.
+
+---
+
+## 📄 Licença
+
+MIT — faça o que quiser, só não diga que foi você que escreveu 😄
+
+---
+
+## ⭐ Apoie o projeto
+
+Se este projeto te ajudou:
+- Deixe uma estrela ⭐
+- Compartilhe
+- Contribua
+
+Isso faz diferença.
